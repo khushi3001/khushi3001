@@ -1,5 +1,5 @@
 - 👋 Hi, I’m khushi
-- 👀 I’m interested in data analytics , data visualisation, python,sql
+- 👀 I’m interested in Data Analytics , Data Visualisation, Python, MySql, Excel , PowerBI
 - 🌱 I’m currently learning excel
 - 💞️ I’m looking to collaborate on data analytics , data visualisation , python ,sql
 - 📫 How to reach me khushisarin3001@gmail.com
